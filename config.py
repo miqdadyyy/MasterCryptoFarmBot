@@ -26,3 +26,4 @@ config = {
     "run_delay": 60,  # Delay in seconds before starting the bot modules. Default: 60 second.
     "display_module_logs_in_console": False,  # If set to True, module logs will be displayed in the mcf console.
     "auto_setup_accounts": False,  # Automatically set up your Telegram accounts by adding a last name and profile picture. (Adding a username is mandatory)
+}
